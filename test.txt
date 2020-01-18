@@ -2,4 +2,6 @@ This is my initial test file.
 Added a second line.
 Added a third line.
 Line added on branch01.
+Line added on Master Branch.
+
 
